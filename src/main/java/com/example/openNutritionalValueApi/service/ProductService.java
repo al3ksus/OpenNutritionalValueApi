@@ -1,7 +1,7 @@
-package com.example.openrecipeapi.service;
+package com.example.openNutritionalValueApi.service;
 
-import com.example.openrecipeapi.model.Product;
-import com.example.openrecipeapi.repository.ProductRepository;
+import com.example.openNutritionalValueApi.model.Product;
+import com.example.openNutritionalValueApi.repository.ProductRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

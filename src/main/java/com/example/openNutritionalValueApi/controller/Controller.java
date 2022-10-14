@@ -1,9 +1,7 @@
-package com.example.openrecipeapi.controller;
+package com.example.openNutritionalValueApi.controller;
 
-import com.example.openrecipeapi.exception.ProductNotFoundException;
-import com.example.openrecipeapi.model.Product;
-import com.example.openrecipeapi.service.ProductService;
-import com.google.gson.Gson;
+import com.example.openNutritionalValueApi.model.Product;
+import com.example.openNutritionalValueApi.service.ProductService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

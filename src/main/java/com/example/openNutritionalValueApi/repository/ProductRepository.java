@@ -1,6 +1,6 @@
-package com.example.openrecipeapi.repository;
+package com.example.openNutritionalValueApi.repository;
 
-import com.example.openrecipeapi.model.Product;
+import com.example.openNutritionalValueApi.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
